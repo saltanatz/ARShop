@@ -11,6 +11,18 @@
 		35107D4A2CAD544A000BFAEF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D492CAD544A000BFAEF /* ContentView.swift */; };
 		35107D4C2CAD544E000BFAEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35107D4B2CAD544E000BFAEF /* Assets.xcassets */; };
 		35107D4F2CAD544E000BFAEF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35107D4E2CAD544E000BFAEF /* Preview Assets.xcassets */; };
+		35107D562CAD578B000BFAEF /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D552CAD578B000BFAEF /* HomePage.swift */; };
+		35107D582CAD5881000BFAEF /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D572CAD5881000BFAEF /* Model.swift */; };
+		35107D5B2CADAAA8000BFAEF /* DetailPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D5A2CADAAA8000BFAEF /* DetailPage.swift */; };
+		35107D5E2CADC002000BFAEF /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D5D2CADC002000BFAEF /* HomeViewModel.swift */; };
+		35107D612CADC29C000BFAEF /* ProductCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D602CADC29C000BFAEF /* ProductCard.swift */; };
+		35107D632CADC2B9000BFAEF /* CategoryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D622CADC2B9000BFAEF /* CategoryButton.swift */; };
+		35107D652CADC2D8000BFAEF /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D642CADC2D8000BFAEF /* ARViewContainer.swift */; };
+		35107D672CADC733000BFAEF /* CustomARView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35107D662CADC733000BFAEF /* CustomARView.swift */; };
+		35107D6A2CADD2EE000BFAEF /* lamp.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 35107D692CADD2ED000BFAEF /* lamp.usdz */; };
+		35107D6C2CADD383000BFAEF /* sofa.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 35107D6B2CADD382000BFAEF /* sofa.usdz */; };
+		35107D6E2CADD402000BFAEF /* table.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 35107D6D2CADD402000BFAEF /* table.usdz */; };
+		35107D702CADD470000BFAEF /* bed.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 35107D6F2CADD470000BFAEF /* bed.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		35107D492CAD544A000BFAEF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		35107D4B2CAD544E000BFAEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35107D4E2CAD544E000BFAEF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		35107D552CAD578B000BFAEF /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		35107D572CAD5881000BFAEF /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		35107D5A2CADAAA8000BFAEF /* DetailPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPage.swift; sourceTree = "<group>"; };
+		35107D5D2CADC002000BFAEF /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		35107D602CADC29C000BFAEF /* ProductCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCard.swift; sourceTree = "<group>"; };
+		35107D622CADC2B9000BFAEF /* CategoryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryButton.swift; sourceTree = "<group>"; };
+		35107D642CADC2D8000BFAEF /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		35107D662CADC733000BFAEF /* CustomARView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomARView.swift; sourceTree = "<group>"; };
+		35107D692CADD2ED000BFAEF /* lamp.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = lamp.usdz; sourceTree = "<group>"; };
+		35107D6B2CADD382000BFAEF /* sofa.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = sofa.usdz; sourceTree = "<group>"; };
+		35107D6D2CADD402000BFAEF /* table.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = table.usdz; sourceTree = "<group>"; };
+		35107D6F2CADD470000BFAEF /* bed.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = bed.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +75,16 @@
 		35107D462CAD544A000BFAEF /* ARShop */ = {
 			isa = PBXGroup;
 			children = (
+				35107D5F2CADC1F7000BFAEF /* Model */,
+				35107D5C2CADBE43000BFAEF /* ViewModel */,
+				35107D592CADA03D000BFAEF /* View */,
 				35107D472CAD544A000BFAEF /* ARShopApp.swift */,
 				35107D492CAD544A000BFAEF /* ContentView.swift */,
 				35107D4B2CAD544E000BFAEF /* Assets.xcassets */,
+				35107D682CADD2B5000BFAEF /* 3D models */,
 				35107D4D2CAD544E000BFAEF /* Preview Content */,
+				35107D642CADC2D8000BFAEF /* ARViewContainer.swift */,
+				35107D662CADC733000BFAEF /* CustomARView.swift */,
 			);
 			path = ARShop;
 			sourceTree = "<group>";
@@ -65,6 +95,44 @@
 				35107D4E2CAD544E000BFAEF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		35107D592CADA03D000BFAEF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				35107D552CAD578B000BFAEF /* HomePage.swift */,
+				35107D5A2CADAAA8000BFAEF /* DetailPage.swift */,
+				35107D602CADC29C000BFAEF /* ProductCard.swift */,
+				35107D622CADC2B9000BFAEF /* CategoryButton.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		35107D5C2CADBE43000BFAEF /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				35107D5D2CADC002000BFAEF /* HomeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		35107D5F2CADC1F7000BFAEF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				35107D572CAD5881000BFAEF /* Model.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		35107D682CADD2B5000BFAEF /* 3D models */ = {
+			isa = PBXGroup;
+			children = (
+				35107D692CADD2ED000BFAEF /* lamp.usdz */,
+				35107D6B2CADD382000BFAEF /* sofa.usdz */,
+				35107D6D2CADD402000BFAEF /* table.usdz */,
+				35107D6F2CADD470000BFAEF /* bed.usdz */,
+			);
+			path = "3D models";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +193,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35107D6E2CADD402000BFAEF /* table.usdz in Resources */,
 				35107D4F2CAD544E000BFAEF /* Preview Assets.xcassets in Resources */,
 				35107D4C2CAD544E000BFAEF /* Assets.xcassets in Resources */,
+				35107D6C2CADD383000BFAEF /* sofa.usdz in Resources */,
+				35107D6A2CADD2EE000BFAEF /* lamp.usdz in Resources */,
+				35107D702CADD470000BFAEF /* bed.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +209,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35107D672CADC733000BFAEF /* CustomARView.swift in Sources */,
 				35107D4A2CAD544A000BFAEF /* ContentView.swift in Sources */,
+				35107D632CADC2B9000BFAEF /* CategoryButton.swift in Sources */,
+				35107D5E2CADC002000BFAEF /* HomeViewModel.swift in Sources */,
+				35107D562CAD578B000BFAEF /* HomePage.swift in Sources */,
 				35107D482CAD544A000BFAEF /* ARShopApp.swift in Sources */,
+				35107D652CADC2D8000BFAEF /* ARViewContainer.swift in Sources */,
+				35107D5B2CADAAA8000BFAEF /* DetailPage.swift in Sources */,
+				35107D582CAD5881000BFAEF /* Model.swift in Sources */,
+				35107D612CADC29C000BFAEF /* ProductCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,13 +352,16 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ARShop/Preview Content\"";
+				DEVELOPMENT_TEAM = 36868W474F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow camera to use AR";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,13 +383,16 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ARShop/Preview Content\"";
+				DEVELOPMENT_TEAM = 36868W474F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow camera to use AR";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
